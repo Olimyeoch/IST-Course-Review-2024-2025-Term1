@@ -2,16 +2,19 @@
 Final exam review materials for Machine Learning and Pattern Recognition (2024-2025 Term 1).
 
 **Major:** Intelligent Science and Technology (智能科学与技术)
+
 **Academic Year:** 2024-2025 (Term 1)
+
 **Repository Type:** Final Exam Review Archive
 
 ---
 
 ## Introduction
 This repository serves as a **personal digital archive** for course review materials, focusing on core AI curriculum subjects. It contains my personal lecture notes, summary sheets, and past exam reviews.
+
 本仓库旨在归档我个人的 2024-2025 学年第一学期专业核心课程期末复习资料。
 
-## 🚧 Maintenance Status
+## Maintenance Status
 **Current Status: Active / Work in Progress**
 
 The repository currently contains the initial batch of digitized materials (scanned notes and summaries).
@@ -38,7 +41,7 @@ The repository currently contains the initial batch of digitized materials (scan
 
 ---
 
-## 🤝 Contribution
+## Contribution
 Contributions are welcome! If you have better notes, code implementations, or spotted an error, feel free to open an **Issue** or submit a **Pull Request**.
 如果你有更好的笔记或发现了错误，欢迎提交补充！
 
